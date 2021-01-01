@@ -41,6 +41,8 @@ Navigate to the location where the program has been compiled and double click th
 Navigate to the build directory and execute the EmSav executable. If it won't execute through the terminal, modify its execution permissions
 with ```chmod +x EmSav```
 
+For the program to load the save file, it's easiest to place it in the same directory as the executable itself.
+
 # Bug Reporting
 Since this program is still in the early stages of development, bugs and issues are bound to occur. If you come across behavior in the
 program that seems odd or problematic, please feel free to submit a bug report.
